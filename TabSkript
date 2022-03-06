@@ -6,4 +6,4 @@ every 5 seconds:
 		set {%loop-player%.tabname} to loop-player's display name
 		set the loop-player's tab name to "%{%loop-player%.tabrank}%%{%loop-player%.tabname}%" 
 		set tab list header of loop-player to "%nl%&f-------&6-------&f-------&6-------&f-------&6-------&f-------%nl%%nl%&6&lAchieved%nl%"
-		set loop-player's tab list footer to "%nl% &7{mode} server%nl%%nl%&6&lDiscord:https://discord.gg/WCu9PxRfcb: &8server.buycraft.net%nl%&6&lServer IP: &8SolarNet1.Minehut.gg%nl%%nl%&f-------&6-------&f-------&6-------&f-------&6-------&f-------"
+		set loop-player's tab list footer to "%nl% &7{mode} server%nl%%nl%&6&lDiscord: XXX : &8 %nl%&6&lServer IP: &8 XX %nl%%nl%&f-------&6-------&f-------&6-------&f-------&6-------&f-------"
